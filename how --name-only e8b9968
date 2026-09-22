@@ -1,0 +1,13 @@
+[33mcommit e8b996892ff3c2b063dc01c07d86b3f2dc820ef8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mteste-branch[m[33m, [m[1;31morigin/teste-branch[m[33m)[m
+Author: Felipe <felipesilva@falqon.com.br>
+Date:   Tue Sep 22 10:03:04 2026 -0300
+
+    terceira alteração na teste-branch
+
+[1mdiff --git a/teste.js b/arquivo.png[m
+[1msimilarity index 100%[m
+[1mrename from teste.js[m
+[1mrename to arquivo.png[m
+[1mdiff --git a/foto.jpg b/foto.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
